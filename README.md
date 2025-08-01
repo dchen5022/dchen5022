@@ -1,5 +1,3 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dchen5022&theme=monokai" style="margin-left:7px;margin-bottom:12px"/>
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dchen5022&theme=monokai" style="margin-right:50px" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dchen5022&theme=monokai" />
-</div>
+# Hi there 👋!
+I like low-level systems programming.
+Kernel patches: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=dechen%40redhat.com
